@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ScoovaGeofences'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Geofence CRUD plus point-in-fence containment check.'
 
   s.description      = <<-DESC
