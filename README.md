@@ -19,7 +19,7 @@ https://github.com/Scoova/scoova-geofences-ios.git
 Or in `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/Scoova/scoova-geofences-ios.git", from: "1.0.0")
+.package(url: "https://github.com/Scoova/scoova-geofences-ios.git", from: "1.0.1")
 ```
 
 Then add `ScoovaGeofences` to your target dependencies.
